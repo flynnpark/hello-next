@@ -1,0 +1,17 @@
+{
+  "name": "hello-next",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Flynn <wphestiraid@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^7.0.0",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
